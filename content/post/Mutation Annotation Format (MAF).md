@@ -1,7 +1,4 @@
-```
 title: MAF file format
-tag: Bioinformatics
-```
 
 ## Overview
 
